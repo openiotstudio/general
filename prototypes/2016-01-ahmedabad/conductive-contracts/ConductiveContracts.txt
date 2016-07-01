@@ -1,0 +1,35 @@
+﻿Conductive  Contracts
+
+
+Complete the circuit by stamping it.  Your contract will be digitally authorized using conductive ink, Indian stamp paper, and your thumbprint.
+
+
+This project considers whether paper contracts would benefit from digital features. Possible use cases include: verifying the signatures in the contract or notifying a database that the contract has been completed. 
+
+
+In India, it’s common to draw up a contract using stamp paper. This paper is watermarked and has various monetary denominations. To obtain our stamp paper, we went to the courthouse, where a legal clerk logged our transaction in a ledger and wrote the contract on a typewriter.  
+ OLYMPUS DIGITAL CAMERA          
+
+
+
+A traditional form of signature in India is the thumbprint. This technique is often used when the signatory cannot write their name. It is also biometric data, which is commonly used as a form of identification. 
+
+
+We designed a circuit that would light up when the contract was signed by both parties and then stamped by the notary. Ideally, this would be created using conductive ink. We were unable to obtain it during the Caravan, so we made an artistic rendering of a circuit instead. 
+
+
+We also crafted a notary stamp, which was inspired by the tradition of customized stamps used in many businesses and ministries throughout India. 
+
+
+To take this project further, we imagine talking with the courthouses and members of the judicial system to ask whether these kinds of interactions would add value to their practice. If so, one could readily create a circuit design that could be printed directly on the stamp paper.
+
+
+—Michelle Thorne (@thornet) and Shashank Sriram
+
+
+ DSC_3173.JPG 
+
+
+
+                  
+Img: Stamp paper with conductive seal of signatories and notary, Conductive seals with thumbprints.

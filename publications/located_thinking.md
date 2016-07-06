@@ -6,14 +6,11 @@
 
 I’m wondering if this is an event. Events feel like they have a start and end to them - that they have a point. When Babitha, Michelle and I started out on thinking about how we could convene people around open IoT, it was clear that it was really all about the journey. About knowing that we are not ‘getting’ anywhere, and it is not going to be clear. It is about the atmosphere, the environment and the attitude. And we have got to this nature of a journey through various iterations. 
 
-
 First up the Unbox Labs Caravan 01 where we deliberately went super open on where people might go—with very little direction or facilitation provided. In the Berlin Connect Home Sprint for Caravan 02, we went in the other direction and provided a clear set of briefs to build prototypes. In this third caravan in Anstruther, Scotland, we attempted to set out a new direction that was informed by the the two previous ones. 
-
 
 Looking back on this week’s journey, it feels as if the direction has emerged from the following values:
 
-
-* Diversity is key - diversity in people, in processes and technologies. 
+* Diversity is key—diversity in people, in processes and technologies. 
 * Critically positive framework for reflection
 * Not having a goal in sight (else we would only deal with things for the now)
 * Celebration of individuality & personal expression, which also equals messiness

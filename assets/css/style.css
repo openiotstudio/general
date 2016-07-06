@@ -421,3 +421,264 @@ nav a.selected:after {
 .resources .resource p {
   margin: 10px 0 0 0;
 }
+
+/* --------------------------------------------------------------
+9.0 Widgets
+-------------------------------------------------------------- */
+.widget-area {
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+  float: right;
+  font-size: 16px;
+  position: relative;
+  -webkit-backface-visibility: hidden;
+}
+@media (max-width: 800px) {
+  .widget-area {
+    width: 100%;
+    float: none;
+    margin-top: 8%;
+  }
+}
+
+.widget-area a {
+  color: #66727D;
+}
+.widget-area a:hover {
+  color: #283037;
+}
+
+.widget-area aside {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 8%;
+  vertical-align: top;
+  position: relative;
+  z-index: 10;
+  -webkit-transform: translateZ(0);
+}
+.widget-area aside:after {
+  content: " ";
+  background: url(images/screen-half.png);
+  height: 12px;
+  display: inline-block;
+  width: 100%;
+  margin-top: 10%;
+  z-index: 10;
+  -webkit-transform: translate3d(0, 0, 0);
+}
+.widget-area aside:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.widget-area aside:last-child:after {
+  display: none;
+}
+@media (max-width: 600px) {
+  .widget-area aside {
+    margin-bottom: 8%;
+  }
+}
+
+.widget-area aside:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.widget-area aside .widget-title,
+.widget-area aside .widgettitle,
+.widget-area .widget-grofile h4 a {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.6;
+  position: relative;
+  margin-bottom: 20px;
+}
+@media (max-width: 800px) {
+  .widget-area aside .widget-title,
+  .widget-area aside .widgettitle,
+  .widget-area .widget-grofile h4 a {
+    margin-bottom: 35px;
+  }
+}
+@media (max-width: 600px) {
+  .widget-area aside .widget-title,
+  .widget-area aside .widgettitle,
+  .widget-area .widget-grofile h4 a {
+    margin-bottom: 20px;
+  }
+}
+
+.widget-area .textwidget p:last-of-type {
+  margin-bottom: 0;
+}
+
+.widget-area aside ul {
+  margin: 0 0 0 0;
+}
+
+.widget-area aside ul.sub-menu,
+.widget-area aside .children {
+  margin: 4% 0 0 20px;
+}
+
+.widget-area aside ul.sub-menu li:last-child,
+.widget-area aside .children li:last-child {
+  margin-bottom: 0;
+  padding-bottom: 2%;
+  border-bottom: none;
+}
+
+.widget-area aside li {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: dotted 1px #ccc;
+  list-style: none;
+  position: relative;
+}
+.widget-area aside li:before {
+  content: "\f0da";
+  font-family: "FontAwesome";
+  position: absolute;
+  left: -18px;
+  top: 3px;
+  color: #A1B0BD;
+  font-size: 12px;
+  display: none;
+}
+
+.widget-area aside li ul li {
+  list-style: circle;
+}
+
+.widget-area aside li:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.sub-banner {
+	font-size: 12px;
+	margin: auto;
+	background-color: #f8f8f8;
+	border-bottom: solid 1px #e4e4e4;
+}
+
+.sub-banner > .container {
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sub-banner .description {
+	padding: 15px 0 30px;
+	max-width: 730px;
+	margin: auto;
+}
+
+.sub-banner .description a {
+	text-decoration: underline;
+}
+
+.timeline {
+	padding-top: 70px;
+}
+
+.timeline-progress {
+	max-width: 600px;
+	height: 4px;
+	position: relative;
+	margin: 1.5rem auto;
+	background-color: #ccc;
+	border-radius: 5px;
+}
+
+.timeline-progress-completion {
+	background-color: #c13832;
+	width: 25%;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.timeline-phase-1 .timeline-progress-completion {
+	width: 14.5%;
+}
+
+.timeline-phase-2 .timeline-progress-completion {
+	width: 39.5%;
+}
+
+.timeline-phase-3 .timeline-progress-completion {
+	width: 63.5%;
+}
+
+.timeline-phase-4 .timeline-progress-completion {
+	width: 88.5%;
+}
+
+.phase-1 {
+	margin-left: 13%;
+}
+
+.phase-2 {
+	margin-left: 38%;
+}
+
+.phase-3 {
+	margin-left: 62%;
+}
+
+.phase-4 {
+	margin-left: 87%;
+}
+
+.timeline-phase-1 .phase-1 .timeline-chevron,
+.timeline-phase-2 .phase-1 .timeline-chevron,
+.timeline-phase-2 .phase-2 .timeline-chevron,
+.timeline-phase-3 .phase-1 .timeline-chevron,
+.timeline-phase-3 .phase-2 .timeline-chevron,
+.timeline-phase-3 .phase-3 .timeline-chevron,
+.timeline-phase-4 .phase-1 .timeline-chevron,
+.timeline-phase-4 .phase-2 .timeline-chevron,
+.timeline-phase-4 .phase-3 .timeline-chevron,
+.timeline-phase-4 .phase-4 .timeline-chevron {
+	border-color: #c13832;
+}
+
+.timeline-phase-1 .phase-1 .timeline-phase,
+.timeline-phase-2 .phase-1 .timeline-phase,
+.timeline-phase-2 .phase-2 .timeline-phase,
+.timeline-phase-3 .phase-1 .timeline-phase,
+.timeline-phase-3 .phase-2 .timeline-phase,
+.timeline-phase-3 .phase-3 .timeline-phase,
+.timeline-phase-4 .phase-1 .timeline-phase,
+.timeline-phase-4 .phase-2 .timeline-phase,
+.timeline-phase-4 .phase-3 .timeline-phase,
+.timeline-phase-4 .phase-4 .timeline-phase {
+	color: #4A4A4A;
+}
+
+.timeline-progress-percentage {
+	position: absolute;
+	top: -3px;
+	text-align: center;
+}
+
+.timeline-chevron {
+	border-color: #ccc;
+	height: 10px;
+	width: 10px;
+	border-style: solid;
+	border-width: 4px 4px 0 0;
+	transform: rotate(45deg);
+}
+
+.timeline-phase {
+	position: absolute;
+	left: -45px;
+	width: 100px;
+	bottom: 20px;
+	color: #9B9B9B;
+}
+

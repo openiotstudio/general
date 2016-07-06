@@ -28,7 +28,7 @@ To see all the prototypes made so far, check out these repositories: [https://gi
 
 ## Publications
 
-To read about what we're learning, check out these [publications](https://github.com/openiotstudio/publications). 
+To read about what we're learning, check out these [publications](https://github.com/openiotstudio/general/tree/master/publications). 
 
 
 

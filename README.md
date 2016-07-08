@@ -30,6 +30,8 @@ To see all the prototypes made so far, check out these repositories: [https://gi
 
 To read about what we're learning, check out these [publications](https://github.com/openiotstudio/general/tree/master/publications). 
 
+## Images
 
+To see the Open Internet of Things Studio in action, check out these [photos] (https://drive.google.com/folderview?id=0B4rEOP1A0tc0S3M5VEpfT2NXRW8&usp=sharing).
 
 

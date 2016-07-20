@@ -26,9 +26,25 @@ September 24-25, 2016 in London, UK.
 
 Hosted by the V&A.
 
+### SVCF
+
+October 7 - 10, 2016 in San Francisco, USA.
+
 ### Mozfest
 
-* [A Tale of Two Cities. Dilemmas in Connected Spaces](https://public.etherpad-mozilla.org/p/dilemma)
+October 28 - 30, 2016 in London, UK.
+
+Space: [A Tale of Two Cities. Dilemmas in Connected Spaces](https://public.etherpad-mozilla.org/p/dilemma)
+
+### Shenzhen
+
+November 5 - 13, 2016 in Shenzhen, China.
+
+In collaboration with The Incredible Machine
+
+### Netgain
+
+Spring 2017
 
 ## Past convenings
 

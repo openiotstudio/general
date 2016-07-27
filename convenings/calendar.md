@@ -40,7 +40,7 @@ Space: [A Tale of Two Cities. Dilemmas in Connected Spaces](https://public.ether
 
 November 5 - 13, 2016 in Shenzhen, China.
 
-In collaboration with The Incredible Machine
+In collaboration with The Incredible Machine and ThingsCon.
 
 ### Netgain
 

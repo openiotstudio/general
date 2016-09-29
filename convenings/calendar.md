@@ -20,11 +20,11 @@ September 9-11, 2016 in Chattanooga, USA.
 
 Hosted by Hive Chattanooga and The Company Lab.
 
-### London Design Festival
+### [London Design Festival](https://shop.vam.ac.uk/whatson/index/view/id/2662/event/Digital-Design-Weekend-2016/dt/2016-09-24/free/1)
 
 September 24-25, 2016 in London, UK.
 
-Hosted by the V&A.
+Hosted by the V&A. 
 
 ### SVCF
 

@@ -10,7 +10,7 @@ Mozilla's Open IoT Studio collaborates with professionals to make meaningful con
 
 ## What we're working towards: internet health
 
-As part of the Mozilla Foundation, we understand internet health to include the following five issues, which we are applying to IoT:
+As part of the Mozilla Foundation, we understand internet health to include the following five issues:
 
 ### Privacy & Security.
 
@@ -73,7 +73,6 @@ Through improved professional practice that embeds internet stewardship and loca
 * Research
 * Reflection
 * Best practices
-
 
 ## What we make
 

@@ -6,13 +6,13 @@ The Internet of Things (IoT) describes an emerging global network connecting eve
 
 Mozilla's Open IoT Studio collaborates with professionals to make meaningful connected objects that contribute to and benefit from a healthy internet.
 
-[assets/images/group-photo.jpg]
+<img src="assets/images/group-photo.jpg">
 
-### What we're working towards: internet health
+## What we're working towards: internet health
 
 As part of the Mozilla Foundation, we understand internet health to include the following five issues, which we are applying to IoT:
 
-#### Privacy & Security.
+### Privacy & Security.
 
 We are particularly interested in exploring the professional practices of privacy and security that can empower individuals to grow trust and be in control of their connected products and services. 
 
@@ -28,7 +28,7 @@ We are exploring this through this question:
 
 [Read more about our research and prototypes around privacy and security in IoT.](LINK TO BRIEFS) 
 
-#### Decentralization.
+### Decentralization.
 
 Currently, several large corporate players are shaping IoT. Their power is quite centralised, even though they compete against each other. Centralised power means there is a single point of failure. And it means that individual agency is limited, especially at the edges of a network. 
 
@@ -44,7 +44,7 @@ We are exploring this through this question:
 
 [Read more about our research and prototypes around decentralization in IoT.](LINK TO BRIEFS) 
 
-#### Open Innovation.
+### Open Innovation.
 
 People everywhere make things that are meaningful to them. And they make them in different ways. We want to understand and enhance making that is in tune with its context. At times this can look really messy, reflecting the messiness that life and the world around really is.
 
@@ -52,7 +52,7 @@ Local crafts are highly adapted to local contexts, such as language and local ma
 
 We are exploring how open innovation happens across the Internet of Things ecosystem. We’re not fully sure where this is heading right now, but one thing we are sure of is that it’s good to start with actionable insights drawn from local contexts and test designs through lived experiences.
 
-#### Digital Inclusion.
+### Digital Inclusion.
 
 When IoT is made by just a few power players, then the interests of some people might be overlooked or deemed not profitable enough to cater to. By innovating openly and making meaningful things locally, more people can have a voice and shape the technology environment around them.
 
@@ -60,7 +60,7 @@ We want to contribute to an ecosystem that is diverse and collaborative. That me
 
 Through inclusive practices, we want to futher challenge the centralisation of power and advocate for digital equity, ensuring that the internet remains a global, public resource that is open and accessible to all.
 
-#### Web Literacy.
+### Web Literacy.
 
 We learn to make and make to learn. The process of making reveals insights that will help us grow and improve. These reflections can be shared with others and support them as they learn as well.
 
@@ -68,14 +68,14 @@ We are keen to collaborate with educators on learning opportunities and curricul
 
 Through improved professional practice that embeds internet stewardship and local context, we believe that the connected products we make will support more people to have agency in their online lives. They will be able to read, write and participate fully with technology.
 
-### How we work: a network of professionals researching and reflecting on best practices in IoT
+## How we work: a network of professionals researching and reflecting on best practices in IoT
 
 * Research
 * Reflection
 * Best practices
 
 
-### What we make
+## What we make
 
 * Collaborations
 * Events
@@ -83,13 +83,13 @@ Through improved professional practice that embeds internet stewardship and loca
 * Prototypes
 * Publications
 
-### Who we work with
+## Who we work with
 
 * [...]
 * How to get involved
 
 
-### A program of the Mozilla Leadership Network
+## A program of the Mozilla Leadership Network
 
 We are part of the Mozilla Leadership Network, a series of programs working to advance openness in science, education, advocacy, gender-issues and IoT.
 

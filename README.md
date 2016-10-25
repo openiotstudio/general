@@ -1,35 +1,100 @@
-# About Open IoT Studio
+# Mozilla's Open IoT Studio 
 
-> Brief description:
+## We want a healthy internet where people make meaningful connected things.
 
-> Mozilla's Open Internet of Things Studio is a professional learning network committed to making IoT more open. We collaborate on prototypes that serve local communities and celebrate the unique affordances of physical places. We test and critique best practices for embedding privacy, digital literacy and diversity & inclusion in IoT. We publish and exhibit our results as a way to reflect and advocate for these values as the internet evolves into more physical and ubiquitous forms.
+The Internet of Things (IoT) describes an emerging global network connecting everything around us: from what we wear, to the homes we live in, and even medical devices embedded in our bodies. IoT encompasses everyday objects as well as complex data systems in cities and industries. This so-called “third wave” of the Internet is [often defined by orders of magnitude](https://www.oreilly.com/ideas/the-iot-is-it-in-progress): “billions of devices connected, trillions in generated revenue, zettabytes of multi-directional data.”
 
-> We are part of the Mozilla Leadership Network, a series of programs working in science, advocacy, learning, emerging technologies and gender issues to further build and protect the open internet.
+Mozilla's Open IoT Studio collaborates with professionals to make meaningful connected objects that contribute to and benefit from a healthy internet.
+
+[assets/images/group-photo.jpg]
+
+### What we're working towards: internet health
+
+As part of the Mozilla Foundation, we understand internet health to include the following five issues, which we are applying to IoT:
+
+#### Privacy & Security.
+
+We are particularly interested in exploring the professional practices of privacy and security that can empower individuals to grow trust and be in control of their connected products and services. 
+
+IoT will significantly amplify the security and privacy challenges we currently face. One reason for this is because IoT brings computing power much closer to us physically and more pervasive. There are already examples of how this physical proximity and digital control of physical resources can result in life-threatening scenarios, such as a car being hacked or a pacemaker compromised.
+
+IoT also collects more and different data than previous eras of the internet. This includes our physical location, appearance, and even emotional state.
+
+As we build meaningful connected things, we must ensure that these objects don’t compromise people’s agency. People must be able to understand and control their digital lives. And control depends on context. We want to understand how designing for specific contexts can inform privacy best practices broadly. 
+
+We are exploring this through this question: 
+
+***How can we design contextually relevant privacy controls in IoT that are knowable, modifiable and empowering to the people using them?*** 
+
+[Read more about our research and prototypes around privacy and security in IoT.](LINK TO BRIEFS) 
+
+#### Decentralization.
+
+Currently, several large corporate players are shaping IoT. Their power is quite centralised, even though they compete against each other. Centralised power means there is a single point of failure. And it means that individual agency is limited, especially at the edges of a network. 
+
+For this reason, we are committed to making meaningful things in local contexts. Open innovation at the edges can shift centralised power, leading to products that are locally relevant and adapted. We can break horrendously short cradle-to-grave lifecycle that the digital technology industry has artificially generated.
+
+In this way, when the inevitable stresses and shocks occur, local communities are more resilient. They can repair their tools, they can repurpose them, and they will benefit for having meaningful things that last and make sense in their context. 
+
+We are particularly interested in exploring the contexts of decentralization that can empower communities to be more resilient through making locally relevant IoT.  
+
+We are exploring this through this question: 
+
+***How can locally relevant and locally produced IoT contribute to more resilient systems?***
+
+[Read more about our research and prototypes around decentralization in IoT.](LINK TO BRIEFS) 
+
+#### Open Innovation.
+
+People everywhere make things that are meaningful to them. And they make them in different ways. We want to understand and enhance making that is in tune with its context. At times this can look really messy, reflecting the messiness that life and the world around really is.
+
+Local crafts are highly adapted to local contexts, such as language and local materials. We want to celebrate this diversity and support others in using local approaches to create meaningful things and share them openly.
+
+We are exploring how open innovation happens across the Internet of Things ecosystem. We’re not fully sure where this is heading right now, but one thing we are sure of is that it’s good to start with actionable insights drawn from local contexts and test designs through lived experiences.
+
+#### Digital Inclusion.
+
+When IoT is made by just a few power players, then the interests of some people might be overlooked or deemed not profitable enough to cater to. By innovating openly and making meaningful things locally, more people can have a voice and shape the technology environment around them.
+
+We want to contribute to an ecosystem that is diverse and collaborative. That means championing things made by different people in different contexts to address different needs.
+
+Through inclusive practices, we want to futher challenge the centralisation of power and advocate for digital equity, ensuring that the internet remains a global, public resource that is open and accessible to all.
+
+#### Web Literacy.
+
+We learn to make and make to learn. The process of making reveals insights that will help us grow and improve. These reflections can be shared with others and support them as they learn as well.
+
+We are keen to collaborate with educators on learning opportunities and curriculum that empowers people in making meaningful IoT, especially professional practitioners seeking to improve their craft.
+
+Through improved professional practice that embeds internet stewardship and local context, we believe that the connected products we make will support more people to have agency in their online lives. They will be able to read, write and participate fully with technology.
+
+### How we work: a network of professionals researching and reflecting on best practices in IoT
+
+* Research
+* Reflection
+* Best practices
+
+
+### What we make
+
+* Collaborations
+* Events
+* Resources
+* Prototypes
+* Publications
+
+### Who we work with
+
+* [...]
+* How to get involved
+
+
+### A program of the Mozilla Leadership Network
+
+We are part of the Mozilla Leadership Network, a series of programs working to advance openness in science, education, advocacy, gender-issues and IoT.
+
 
 __________
-
-
-## What is IoT?
-
-The internet is changing forms. Today we live in a network of physical objects and services that continuously gather data and exchange it over the internet. These connected systems are increasingly invisible, inaccessible and immutable to us.
-
-We believe that as the internet evolves, it must remain a global public resource that is open and accessible to all.  
-
-The Internet of Things (IoT) describes the trend of increasingly connected objects and environments. It's rapidly growing, although its professional practices and leading products are not yet fully established.
-
-## Why is Mozilla interested in IoT?
-
-Mozilla seeks to make IoT more open, accessible and empowering. We also strive to improve privacy and security in the field. To this end, Mozilla is convening a global network of professionals committed to open IoT.
-
-## What is Mozilla doing in IoT?
-
-Mozilla's Open Internet of Things Studio invites participants to collaborate on prototypes that serve local communities and celebrate the unique affordances of physical places. We test and critique best practices for embedding privacy, digital literacy and diversity & inclusion in IoT. We publish and exhibit our results as a way to reflect and advocate for these values as the internet evolves into more physical and ubiquitous forms.
-
-We prioritize working with professionals who are currently active in IoT: product designers, web developers, hardware manufacturers, data scientists, user researchers, and internet activists.
-
-We strive to welcome diverse thinking, identities and experiences. We care about sustainable activities, meaningful contributions to local communities, and a nurtured approach to innovation. We are committed to learning by making and to sharing what we know and create.
-
-This program is part of Mozilla's Leadership Network, a series of programs working in science, advocacy, learning, emerging technologies and gender issues to further build and protect the open internet.
 
 
 ### Convenings

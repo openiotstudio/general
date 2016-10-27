@@ -10,7 +10,7 @@ Mozilla's Open IoT Studio collaborates with professionals to make meaningful con
 
 ## What we're working towards: internet health
 
-As part of the Mozilla Foundation, we understand internet health to include the following five issues:
+As part of the Mozilla Foundation, we understand internet health to include the following five issues, which we are applying to IoT:
 
 ### Privacy & Security.
 
@@ -68,18 +68,48 @@ We are keen to collaborate with educators on learning opportunities and curricul
 
 Through improved professional practice that embeds internet stewardship and local context, we believe that the connected products we make will support more people to have agency in their online lives. They will be able to read, write and participate fully with technology.
 
-## How we work: a network of professionals researching and reflecting on best practices in IoT
+## How we work
 
-* Research
-* Reflection
-* Best practices
+As a professional learning network, we conduct **action research** to unearth insights around the issues of internet health for IoT. Responding to those insights, we make prototypes through **commons-based peer production** to directly impact the **professional development** and the formation of **best practices** among the IoT professionals we work with. 
 
-## What we make
+We reflect on this process and share what we learn through participartory events and open publications, seeking to strengthen Mozilla's leadership network and influence the IoT larger ecosystem towards a healthier internet.
+ 
+These themes are central to the studio: 
+
+### Open internet. 
+
+The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole. It is a global public resource that must remain open and accessible. It is built on standards, interoperability and decentralized. We build things with and for the open internet. 
+
+### Open hardware. 
+
+We prioritize working with the development boards and physical artifacts offered by the open hardware movement. Thanks to their high quality through peer review, vibrant communities contributing to libraries and bug fixes, and the freedom to study, modify and manufacture the parts, open hardware leads to better products, less duplication of efforts, and a healthier internet.
+
+
+### Read/write/participate. 
+
+To be a citizen of the digital world, you need the ability to read, write and participate in it. We research and prototype IoT so that individuals can also build, create and engage meaningfully through internet-enabled products and content.
+ 
+### Crafting considered objects.
+
+We specilize in locally appropriate ways of building IoT that are sensitive to individual and community needs. At the heart of the studio, we explore ways in which craft can support sustainable manufacturing in terms of the environment, local economy, and local relevance. 
+
+### Locating our work in places. 
+
+Going hand-in-hand with our approach of crafting considered objects, we are locating activities in specific communities in diverse geographical locations. This includes conducting studio activities in communities that are not usually associated with technology development. While the results are expected to be highly specific to the localised communities, we see this as an important way to approach global technology development in parallel with the studio’s digital inclusion issues. 
+
+
+### Working with people.  
+
+Understanding the lives of people is fundamental to building the next generation of IoT. Market research and global trends will allow you to understand the existing landscape, but it will not bring you closer to concepts that are change-making. Drawing from design ethnography, field research and action research we are taking in insight-led approach to creating original ideas that matter. 
+
+
+## What we make 
+
 
 * Collaborations
 * Events
 * Resources
-* Prototypes
+* Prototypes. 
 * Publications
 
 ## Who we work with

@@ -4,9 +4,15 @@
 
 The Internet of Things (IoT) describes an emerging global network connecting everything around us: from what we wear, to the homes we live in, and even medical devices embedded in our bodies. IoT encompasses everyday objects as well as complex data systems in cities and industries. This so-called “third wave” of the Internet is [often defined by orders of magnitude](https://www.oreilly.com/ideas/the-iot-is-it-in-progress): “billions of devices connected, trillions in generated revenue, zettabytes of multi-directional data.”
 
-Mozilla's Open IoT Studio collaborates with professionals to make meaningful connected objects that contribute to and benefit from a healthy internet.
+Mozilla’s Open IoT Studio seeks to advance responsible open IoT through professional practices and a network of IoT practitioners who conduct research, make prototypes and build meaningful collaborations. 
 
 <img src="assets/images/group-photo.jpg">
+
+In 2017, we are focusing on two internet health issues in IoT, privacy & security and decentralization. To affect change in IoT, we are targeting IoT professionals, who are currently defining the field and establishing professional norms. We will reach them through the following activities:
+
+* **Unearthing actionable insights** through original research
+* **Advancing responsible practices** through prototypes and learning resources
+* **Cultivating a network of collaborators** who are taking action on this issue 
 
 ## What we're working towards: internet health
 
@@ -26,8 +32,6 @@ We are exploring this through this question:
 
 ***How can we design contextually relevant privacy controls in IoT that are knowable, modifiable and empowering to the people using them?*** 
 
-[Read more about our research and prototypes around privacy and security in IoT.](LINK TO BRIEFS) 
-
 ### Decentralization.
 
 Currently, several large corporate players are shaping IoT. Their power is quite centralised, even though they compete against each other. Centralised power means there is a single point of failure. And it means that individual agency is limited, especially at the edges of a network. 
@@ -41,8 +45,6 @@ We are particularly interested in exploring the contexts of decentralization tha
 We are exploring this through this question: 
 
 ***How can locally relevant and locally produced IoT contribute to more resilient systems?***
-
-[Read more about our research and prototypes around decentralization in IoT.](LINK TO BRIEFS) 
 
 ### Open Innovation.
 
@@ -72,8 +74,7 @@ Through improved professional practice that embeds internet stewardship and loca
 
 As a professional learning network, we conduct **action research** to unearth insights around the issues of internet health for IoT. Responding to those insights, we make prototypes through **commons-based peer production** to directly impact the **professional development** and the formation of **best practices** among the IoT professionals we work with. 
 
-<<<<<<< HEAD
-We reflect on this process and share what we learn through participartory events and open publications, seeking to strengthen Mozilla's leadership network and influence the IoT larger ecosystem towards a healthier internet.
+We reflect on this process and share what we learn through participartory events and open publications, seeking to strengthen Mozilla's leadership network and influence the IoT larger ecosystem towards a healthier internet. 
  
 These themes are central to the studio: 
 
@@ -106,30 +107,6 @@ Understanding the lives of people is fundamental to building the next generation
 
 ## What we make 
 
-* Collaborations
-* Events
-* Resources
-* Prototypes. 
-* Publications
-
-
-## Who we work with
-
-* [...]
-* How to get involved
-
-## What do we need to get there
-
-* [...]
-
-## A program of the Mozilla Leadership Network
-
-We are part of the Mozilla Leadership Network, a series of programs working to advance openness in science, education, advocacy, gender-issues and IoT.
-
-
-__________
-
-
 ### Convenings
 
 To learn more about upcoming and past events, check out [our calendar](convenings/calendar.md). 
@@ -137,11 +114,22 @@ To learn more about upcoming and past events, check out [our calendar](convening
 ### Prototypes 
 
 To see all the prototypes made so far, check out these repositories: [https://github.com/openiotstudio](https://github.com/openiotstudio) 
-
-### Publications
+ 
+### Publications 
 
 To read about what we're learning, check out these [publications](https://github.com/openiotstudio/general/tree/master/publications). 
 
-And to see us in action, check out these [photos] (https://drive.google.com/folderview?id=0B4rEOP1A0tc0S3M5VEpfT2NXRW8&usp=sharing).
+### Open IoT Workbench
+
+[A digital resource](https://mskell.github.io/openiotworkbench/) for designers, developers, technologists and user experience professionals working within the field of IoT.
 
 
+## A program of the Mozilla Leadership Network
+
+We are part of the Mozilla Leadership Network, a series of programs working to advance openness in science, education, advocacy, gender-issues and IoT.
+
+## Get in touch 
+
+* Twitter [@openiotstudio](https://twitter.com/openiotstudio)
+* Slack [openiotstudio.slack.com](https://openiotstudio.slack.com/)
+* Email iot at mozillafoundation dot org
